@@ -1,0 +1,1 @@
+# Devnagari_character_handwritten_dataset_nn
